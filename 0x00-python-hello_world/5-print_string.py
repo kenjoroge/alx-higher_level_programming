@@ -2,4 +2,4 @@
 str = "Holberton School"
 print(f"{str:s}{str:s}{str:s}")
 str = "Holberton School"
-str[:10]
+str[:9]
