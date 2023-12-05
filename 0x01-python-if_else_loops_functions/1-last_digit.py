@@ -1,7 +1,6 @@
 #!/usr/bin/python3
 import random
 number = random.randint(-10000, 10000)
-print(number)
 last_number = abs(number) % 10 #We use the abs() function to get the absolute value of number,
                             #which is the same as the magnitude of the number regardless of its sign.
 if number < 0:
